@@ -36,7 +36,7 @@ Details of each item are described below.
     The six table outputs (in .xlsx format) correspond to Tables 2-7 in the paper.
     
     
-## Requirements ##
+## Requirements
 
 The numerical results in the paper are obtained by running "CRU_ReplicationCode_Full.R" with software R 
 (version 4.2.1) via Rstudio (version 2022.12.0+353) on a Windows computer with 3.2 GHz CPUs and 32 GB memory.
@@ -100,7 +100,7 @@ with 3.2 GHz CPUs and 32 GB memory
 
 ## Data 
 
-    - Abstract:
+    Abstract:
 
      The dataset analyzed in Section 4.2 of the manuscript contains 649 features of handwritten numerals ("0"--"9")
      extracted from a collection of Dutch utility maps. The identity of a handwritten numeral (pattern)
