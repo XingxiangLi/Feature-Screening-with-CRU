@@ -43,15 +43,15 @@ The numerical results in the paper are obtained by running "CRU_ReplicationCode_
 
 The replication code uses the following R packages.
 
-  (1) Package "here" (version 1.0.1) is needed to run the replication code with relative paths linked to
+  - Package "here" (version 1.0.1) is needed to run the replication code with relative paths linked to
       the top-level directory storing the project file "proj_file.Rproj".
 
-  (2) Package "mnormt" (version 2.1.1) is needed to construct Table 6 with setup (f); it is used to generate
+  - Package "mnormt" (version 2.1.1) is needed to construct Table 6 with setup (f); it is used to generate
       a feature matrix based on a user-specified multivariate normal distribution.   
 
-  (3) Package "class" (version 7.3-20) is needed to construct Table 7; it is used to implement KNN classifier.
+  - Package "class" (version 7.3-20) is needed to construct Table 7; it is used to implement KNN classifier.
 
-  (4) Package "writexl" (version 1.4.2) is needed to export Tables 2-7 to Excel ".xlsx" format.
+  - Package "writexl" (version 1.4.2) is needed to export Tables 2-7 to Excel ".xlsx" format.
 
 To run the code, the user will need to have the above packages installed. One may use the command 
 install.packages(c("here", "mnormt", "class", "writexl")) to install these packages before running the code; 
