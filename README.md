@@ -100,9 +100,7 @@ with 3.2 GHz CPUs and 32 GB memory
 
 ## Data 
 
-    Abstract:
-
-     The dataset analyzed in Section 4.2 of the manuscript contains 649 features of handwritten numerals ("0"--"9")
+   - Abstract: The dataset analyzed in Section 4.2 of the manuscript contains 649 features of handwritten numerals ("0"--"9")
      extracted from a collection of Dutch utility maps. The identity of a handwritten numeral (pattern)
      is regarded as a categorical response, which leads to 10 classes in total. For each class, 200 patterns
      have been digitized in 30 x 48 binary images; this results in a total of 2000 images. The first 200 images
