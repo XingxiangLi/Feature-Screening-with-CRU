@@ -133,6 +133,25 @@ with 3.2 GHz CPUs and 32 GB memory
     
       - "zer.txt": 47 rotation invariant Zernike moments, which map an image onto a set of orthogonal
                    functions.
+                  
+  - Availability:
+
+     The dataset is publicly available for download from https://archive.ics.uci.edu/ml/datasets/Multiple+Features.
+
+   - Description: 
+
+     See Abstract for data description. The entries are numerical and SPACE-separated. There are No missing values. 
+     In the manuscript, the dataset is merely used to demostrate the proposed feature screening method as a real data example.  
+
+   - References:
+
+     For more details about the dataset, please see the references below.
+
+     [1] A. K. Jain, R. P. W. Duin, and Jianchang Mao. (2000). Statistical pattern recognition: a review. 
+         IEEE Transactions on Pattern Analysis and Machine Intelligence, vol.22, no.1, 4-37. 
+
+     [2] M. van Breukelen, R.P.W. Duin, D.M.J. Tax, and J.E. den Hartog. (1988). Handwritten digit recognition
+         by combined classifiers, Kybernetika, vol.34, no.4, 381-386.
     
     
     
