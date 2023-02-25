@@ -6,14 +6,12 @@ This folder contains R code and data to reproduce the numerical results presente
 paper (i.e. Figures 1-2 and Tables 2-7). Note that Table 1 in the paper is purely descriptive 
 and is not a result of any numerical experiment.
 
-There are six items in the main folder, including two files and four subfolders. The Two files 
-are: "proj_file.Rproj" and "readme.txt". The four subfolders are: "scripts", "data", "figures" and "tables".
+There are six items in the main folder, including one file and four subfolders. The one file 
+is: "proj_file.Rproj". The four subfolders are: "scripts", "data", "figures" and "tables".
   
 Details of each item are described below. 
   
   - "proj_file.Rproj": a project file for opening the project with Rstudio. 
-
-  - "readme.txt": documentation on workflow and related information about the replication code.
   
   - subfolder "scripts" contains the following files:
       - "CRU_function.R": a helper R file containing functions needed to run the replication code; 
