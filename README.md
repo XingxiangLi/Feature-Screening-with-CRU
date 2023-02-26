@@ -15,6 +15,8 @@ are: "proj_file.Rproj" and "README.md". The four subfolders are: "scripts", "dat
 Details of each item are described below. 
   
   - "proj_file.Rproj": a project file for opening the project with Rstudio. 
+
+  - "readme.txt": documentation on workflow and related information about the replication code.
   
   - subfolder "scripts" contains the following files:
       - "CRU_function.R": a helper R file containing functions needed to run the replication code; 
