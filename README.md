@@ -6,8 +6,11 @@ This folder contains R code and data to reproduce the numerical results presente
 paper (i.e. Figures 1-2 and Tables 2-7). Note that Table 1 in the paper is purely descriptive 
 and is not a result of any numerical experiment.
 
-There are six items in the main folder, including one file and four subfolders. The one file 
-is: "proj_file.Rproj". The four subfolders are: "scripts", "data", "figures" and "tables".
+The mean (averaged) computational time reported in the tables are machine-specific; it only serves as 
+a reference and may not be exactly reproduced by a user.
+
+There are six items in the main folder, including two files and four subfolders. The Two files 
+are: "proj_file.Rproj" and "README.md". The four subfolders are: "scripts", "data", "figures" and "tables".
   
 Details of each item are described below. 
   
@@ -19,7 +22,7 @@ Details of each item are described below.
       - "CRU_ReplicationCode_ShortRunTime.R": replication code with short runtime for testing purposes.
 
   - subfolder "data" contains the following 6 data files (feature sets) that are analyzed in Section 4.2; 
-    see Data section of this readme file for more information about these data files.
+    see Data section of this README file for more information about these data files.
      - fac.txt  
      - fou.txt  
      - kar.txt  
@@ -49,7 +52,7 @@ The replication code uses the following R packages.
 
   - Package "class" (version 7.3-20) is needed to construct Table 7; it is used to implement KNN classifier.
 
-  - Package "writexl" (version 1.4.2) is needed to export Tables 2-7 to Excel ".xlsx" format.
+  - Package "writexl" (version 1.4.2) is needed to export Tables 2-7 in ".xlsx" format.
 
 To run the code, the user will need to have the above packages installed. One may use the command 
 install.packages(c("here", "mnormt", "class", "writexl")) to install these packages before running the code; 
@@ -88,12 +91,12 @@ with 3.2 GHz CPUs and 32 GB memory
 
    -  Figure 1: 3  minutes to exactly reproduce;   18  seconds  to roughly reproduce.
    -  Figure 2: 15 minutes to exactly reproduce;   89  seconds  to roughly reproduce.
-   -  Table 2 : 4  minutes to exactly reproduce;   26 seconds  to roughly reproduce.
+   -  Table 2 : 4  minutes to exactly reproduce;   26 seconds   to roughly reproduce.
    -  Table 3 : 126 hours  to exactly reproduce;   28 miniutes  to roughly reproduce.
    -  Table 4 : 62  hours  to exactly reproduce;   13 miniutes  to roughly reproduce.	
    -  Table 5 : 157 hours  to exactly reproduce;   30 miniutes  to roughly reproduce.
    -  Table 6 : 48  hours  to exactly reproduce;   47 miniutes  to roughly reproduce.
-   -  Table 7 : 40  hours  to exactly reproduce;   24 miniutes to roughly reproduce.
+   -  Table 7 : 40  hours  to exactly reproduce;   24 miniutes  to roughly reproduce.
 
 
 ## Data 
