@@ -74,7 +74,7 @@ To reproduce the numerical results of the paper, one may follow the steps below 
 
    -  The table outputs will be stored in subfolder "tables".
 
-Please note that "CRU_ReplicationCode_Full.r" will have a long runtime (see Runtime section of this readme file).
+Please note that "CRU_ReplicationCode_Full.r" will have a long runtime (see Runtime section of this README file).
 For testing purposes, one can run "CRU_ReplicationCode_ShortRunTime.r" in stead of "CRU_ReplicationCode_Full.r". 
 
   - "CRU_ReplicationCode_ShortRunTime.r" roughly reproduces the tables and figures in a simplified setup, 
