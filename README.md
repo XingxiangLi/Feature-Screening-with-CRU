@@ -87,7 +87,7 @@ For testing purposes, one can run "CRU_ReplicationCode_ShortRunTime.r" in stead 
 
 ## Runtime 
 
-The runtime of "CRU_ReplicationCode_Full.r" / "CRU_ReplicationCode_ShortRunTime.r" to exactly/roughly 
+The runtime of "CRU_ReplicationCode_Full.r"/"CRU_ReplicationCode_ShortRunTime.r" to exactly/roughly 
 reproduce each figure/table in the paper is given below. The results are obtained on a Windows computer 
 with 3.2 GHz CPUs and 32 GB memory 
 
