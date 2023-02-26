@@ -1,3 +1,0 @@
-Subfolder "tables" is a placeholder to store the six table outputs after running the replication code.
-
-The six table outputs (in .xlsx format) correspond to Tables 2-7 in the paper.
