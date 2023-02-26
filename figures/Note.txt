@@ -1,0 +1,4 @@
+Subfolder "figures" is a placeholder to store the two figure outputs after running the replication code.
+
+The two figure outputs (in .pdf format) correspond to Figures 1-2 in the paper.
+
