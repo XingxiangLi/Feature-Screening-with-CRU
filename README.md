@@ -89,7 +89,7 @@ For testing purposes, one can run "CRU_ReplicationCode_ShortRunTime.r" in stead 
 
 The runtime of "CRU_ReplicationCode_Full.r"/"CRU_ReplicationCode_ShortRunTime.r" to exactly/roughly 
 reproduce each figure/table in the paper is given below. The results are obtained on a Windows computer 
-with 3.2 GHz CPUs and 32 GB memory 
+with 3.2 GHz CPUs and 32 GB memory.
 
    -  Figure 1: 3  minutes to exactly reproduce;   18  seconds  to roughly reproduce.
    -  Figure 2: 15 minutes to exactly reproduce;   89  seconds  to roughly reproduce.
